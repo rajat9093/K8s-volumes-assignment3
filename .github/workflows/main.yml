@@ -1,4 +1,4 @@
-name: Deploy to ECR Repository
+name: Deploy to ECR Repo
 on:
   pull_request:
     branches: [ master ]
