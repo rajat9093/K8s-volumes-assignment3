@@ -4,6 +4,7 @@ on:
     branches: [ master ]
     paths:
       - php-guestbook/*
+  [workflow_dispatch]
 
 jobs:
   deploy:
