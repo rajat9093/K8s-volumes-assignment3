@@ -1,3 +1,3 @@
 # php-guestbook
-# php
+# php app
 A simple PHP+MongoDB guestbook.
